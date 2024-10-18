@@ -25,17 +25,17 @@ public class string1 {
         boolean con=s1.contains(s3); // kono string khuja
         boolean b=s1.isEmpty();
         
-       // concat(); add kora
-       // toUpperCase();
-       // toLowerCase();
-       // startsWith(); kono string r suru ki diya 
-       // endsWhith();
-       // indexOf('z'); koto tomo index ase ber kore
-       // lastIndexOf('a'); 
-       // trim(); fast and last space dlt kore
-       // charAt(0); index r char ber kore
-       // codePointAt(0); string index r ascci value ber kore
-       // replace('z','j');
+       concat(); add kora
+       toUpperCase();
+       toLowerCase();
+       startsWith(); kono string r suru ki diya 
+       endsWhith();
+       indexOf('z'); koto tomo index ase ber kore
+       lastIndexOf('a'); 
+       trim(); fast and last space dlt kore
+       charAt(0); index r char ber kore
+       codePointAt(0); string index r ascci value ber kore
+       replace('z','j');
        
        boolean t=s1.startsWith("Saz");
         System.out.println(t);
